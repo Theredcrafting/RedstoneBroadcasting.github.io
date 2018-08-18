@@ -1,8 +1,9 @@
-			header,footer	{color:#c0c4c8; }
-			.logo			{ top:20px; left;400px; }
-			.footercenter	{left:520px; }
-			.pos1			{top:200; left:500px; }
-			.pos2			{top:400; left:500px; }
+			header,footer	{color:#c0c4c8; position:absolute; }
+			body			{position:relative; }
+			.logo			{ position:absolute; top:20px; left:400px; }
+			.footercenter	{ position:absolute; top:600px; left:520px; }
+			.pos1			{  position:absolute; top:200px; left:500px; }
+			.pos2			{  position:absolute; top:400px; left:500px; }	
 			a:link 			{ font-weight:bold; color:blue; text-decoration:none; }
 			a:visited 		{ font-weight:bold; color:silver; text-decoration:none; }
 			a:focus 		{ font-weight:bold; color:red; text-decoration:underline; }
