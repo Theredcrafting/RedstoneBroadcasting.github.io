@@ -1,0 +1,22 @@
+			*				{position:relative;}
+			.main			{background-color:gray;}
+			.row1			{top:33px; left:50px;}
+			.row2			{top:160px; left:50px;}
+			.row3			{top:160px; left:50px;}
+			.row4			{}
+			.row5			{top:0px; left:0px;}
+			.col1			{top:3px; left:0px;}
+			.col2			{top:3px; left:260px;}
+			.col3			{top:3px; left:520px;}
+			.thnb			{height:100px; width:250px;}
+			.caption		{width:250px; height:75px; top:101px;}
+			.text			{top:5px; left:10px;}
+			.feed			{}
+			.video			{}
+			.chat			{}
+			.logo			{width:64px;height:32px; top:2px; left:10px;}
+			a:link 			{ font-weight:bold; color:blue; text-decoration:none; }
+			a:visited 		{ font-weight:bold; color:silver; text-decoration:none; }
+			a:focus 		{ font-weight:bold; color:red; text-decoration:underline; }
+			a:hover 		{ font-weight:bold; color:green; text-decoration:none; }
+			a:active		{font-weight:bold; color:lime; text-decoration:none; }

@@ -1,0 +1,36 @@
+			main				{ left:50px;}
+			footer			{background-color:black;}
+			.slider			{position:absolute;}
+			.banner			{position:relative; width:1800px; height:600px;}
+			.main			{position:relative; top:800px;}
+			.framepos		{position:absolute; top:100px; left:300px; color:white;}
+			.frame			{width:530px; height:285px;}
+			.heading 		{font-size:32px;}
+			.subtitle		{font-size:20px; left:25px;}
+			.title 			{left:400px; top:20px; }
+			.titpos			{left:400px; top	:0px;}
+			.linkfooter		{color:white;}
+			.subject 		{font-size:18px;}
+			.titpos			{left:400px; left:11px; }
+			.bannerpos		{position:absolute;top:100px;left:140px;}
+			.row1			{position:relative; top:20px; left:20px;}
+			.row2			{position:relative; top:250px; left:20px;}
+			.row3			{position:relative; top:470px; left:20px;}
+			.row4			{position:absolute; top:890px; left:20px;}
+			.row5			{position:absolute; top:1140px; left:20px;}
+			.col1			{position:absolute; top:0px; left:0px;}
+			.col2			{position:absolute; top:0px; left:330px;}
+			.col3			{position:absolute; top:0px; left:660px;}
+			.thnb			{position:absolute; height:180px; width:320px;}
+			.caption		{position:absolute; width:320px; height:20px; top:180px; background-color:white;}
+			.text			{position:absolute; top:5px; left:10px; }
+			.feed			{position:absolute; }
+			.video			{position:absolute; }
+			.chat			{position:absolute; }
+			.logo			{position:relative; width:64px; height:32px; top:2px; left:10px;}
+			.footers		{position:absolute; top:1050px; color:black}
+			a:link 			{ font-weight:bold; color:blue; text-decoration:none; }
+			a:visited 		{ font-weight:bold; color:silver; text-decoration:none; }
+			a:focus 			{ font-weight:bold; color:red; text-decoration:underline; }
+			a:hover 			{ font-weight:bold; color:green; text-decoration:none; }
+			a:active		{font-weight:bold; color:lime; text-decoration:none; }

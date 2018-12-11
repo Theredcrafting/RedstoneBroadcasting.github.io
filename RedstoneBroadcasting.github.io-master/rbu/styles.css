@@ -1,0 +1,25 @@
+			header,footer	{background-color:#726C6C; position:absolute; }
+			body			{position:relative; }
+			.cornerpos		{ position:absolute; top:150px; left:20px;}
+			.user_row_pos1	{ position:absolute; left:20px; top:20px;}       
+			.user_row_pos2	{ position:absolute; left:276px; top:20px;} 
+			.user_row_pos3  { position:absolute; left:532px; top:20px;}  
+			.user_row_pos4	{ position:absolute; left:788px; top:20px;}     
+			.logo_border	{ position:absolute; width:256px; height:128px; background-color:#B3B1B1;}
+			.linkborder 	{ position:absolute;height:64px; width:256px; background-color:#F4EFEF;top:128px;}
+			.text_pos		{ position:absolute;left:64px; top:100px;}
+			.user_logo		{ position:absolute;top:32px; left:64px}
+			.logo			{ position:absolute; top:20px; left:400px; }
+			.footercenter	{ position:absolute; top:600px; left:520px; }
+			.pos1			{  position:absolute; top:200px; left:500px; }
+			.pos2			{  position:absolute; top:400px; left:500px; }	
+			.icon			{height:16px; width:16px; position:absolute;}
+			.text-left 		{ text-align: left;}
+			.text-right 	{text-align: right;}
+			.text-center 	{text-align: center;}
+			.loading		{height:150px; width:512px; position:absolute;}
+			a:link 			{ font-weight:bold; color:blue; text-decoration:none; }
+			a:visited 		{ font-weight:bold; color:silver; text-decoration:none; }
+			a:focus 		{ font-weight:bold; color:red; text-decoration:underline; }
+			a:hover 		{ font-weight:bold; color:green; text-decoration:none; }
+			a:active		{font-weight:bold; color:lime; text-decoration:none; }
